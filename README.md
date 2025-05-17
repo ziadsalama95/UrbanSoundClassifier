@@ -13,10 +13,10 @@ The notebook `Audio_Classification.ipynb`:
 ## How to Use
 
 1. Clone this repository.
-2. Download the UrbanSound8K dataset and place it in the `data/` directory (adjust paths in the notebook if needed).
+2. Download the UrbanSound8K dataset and place it in the `data/` directory.
 3. Install required libraries: `pandas`, `numpy`, `librosa`, `keras`, `matplotlib`, `IPython`.
 4. Run the notebook cells sequentially to train the model and test predictions.
 
 ## Results
 
-The model achieves a validation accuracy of approximately 74.81% after 52 epochs (see notebook for details).
+The model achieves a validation accuracy of approximately 86% (see notebook for details).
