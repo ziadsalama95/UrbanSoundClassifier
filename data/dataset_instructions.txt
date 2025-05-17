@@ -1,0 +1,11 @@
+UrbanSound8K Dataset Instructions
+
+The UrbanSound8K dataset is required to run the Audio_Classification.ipynb notebook or test the model locally.
+
+1. Download the dataset from: https://urbansounddataset.weebly.com/urbansound8k.html
+2. Extract the downloaded archive.
+3. Place the extracted 'UrbanSound8K' folder in the 'data/' directory of this repository, so the path is:
+   UrbanSoundClassifier/data/UrbanSound8K/
+4. Ensure the folder contains the 'audio/' and 'metadata/' subdirectories.
+
+Note: The dataset is not included in this repository due to its size. It includes 8,732 labeled audio clips across 10 classes.
